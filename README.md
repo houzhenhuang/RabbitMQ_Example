@@ -1,0 +1,2 @@
+# RabbitMQ_Example
+学习rabbitmq写的一个小demo
